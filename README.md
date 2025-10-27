@@ -1,0 +1,2 @@
+# Data-Driven-Insights-on-Tamil-Nadu-s-Agricultural-Crop-Production
+Discover Tamil Nadu’s agricultural story through data!  From rice to sugarcane, this project visualizes how our traditional crops grow across districts, seasons &amp; years — blending Tamil culture with powerful analytics using pandas, matplotlib &amp; seaborn. When data meets agriculture, raw numbers turn into meaningful stories! 
